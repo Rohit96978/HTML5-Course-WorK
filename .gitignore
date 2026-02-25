@@ -1,0 +1,12 @@
+# Ignore large media files
+*.mp4
+*.mp3
+*.wav
+*.mov
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore IDE settings
+.vscode/
